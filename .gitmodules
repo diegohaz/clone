@@ -1,0 +1,4 @@
+[submodule "repo"]
+	path = fixture
+	url = https://github.com/diegohaz/clone
+	branch = fixture
