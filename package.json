@@ -79,7 +79,7 @@
     "flow-bin": "^0.38.0",
     "jest-cli": "^18.1.0",
     "ncp": "^2.0.0",
-    "yeoman-assert": "^2.2.2",
+    "yeoman-assert": "^3.0.0",
     "yeoman-test": "^1.6.0"
   },
   "license": "MIT"
